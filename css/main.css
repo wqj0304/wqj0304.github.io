@@ -298,7 +298,7 @@ img {
   height: auto;
 }
 hr {
-  margin: 40px 0;
+  margin: 10px 0;
   height: 3px;
   border: none;
   background-color: #ddd;
@@ -1545,7 +1545,7 @@ pre .javascript .function {
   }
 }
 .post-button {
-  margin-top: 40px;
+  margin-top: 15px;
 }
 .posts-expand .post-tags {
   margin-top: 40px;
@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #a7212e;
+  background: #a858ff;
 }
 .links-of-blogroll {
   font-size: 13px;
